@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutzleonardo&label=Profile%20views&color=0e75b6&style=flat" alt="lutzleonardo" /> </p>
 
-- 🔭 Atualmente desenvolvendo uma ferramenta propria **Stellar**
+- 🔭 Atualmente desenvolvendo uma ferramenta propria, o  **Stellar**
 
 - 🌱 Atualmente estou aprendendo **SailsJS, Oracle Commerce Cloud e VTEX IO**
 
