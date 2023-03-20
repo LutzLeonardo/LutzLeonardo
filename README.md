@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, aqui é o LutzLeonardo</h1>
+<h1 align="center">Olá 👋, aqui é o Leonardo Lutz</h1>
 <h3 align="center">Sou um desenvolvedor Web voltado para o ecommerce</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutzleonardo&label=Profile%20views&color=0e75b6&style=flat" alt="lutzleonardo" /> </p>
