@@ -11,9 +11,9 @@
 
 <h3 align="left">Ou o link direto:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leonardo-lutz-50b35a1b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-lutz-50b35a1b2/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/lutzpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lutzpw" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/leonardolutz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/leonardolutz/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leonardo-lutz-50b35a1b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-lutz-50b35a1b2/" height="30" width="40" /></a>
+<a href="https://fb.com/lutzpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lutzpw" height="30" width="40" /></a>
+<a href="https://instagram.com/leonardolutz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/leonardolutz/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
